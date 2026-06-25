@@ -53,9 +53,7 @@ Questions are based on the **Kali Linux Revealed** course by OffSec (Mati Aharon
 
 Original course: [https://www.kali.org/docs/](https://www.kali.org/docs/)
 
-Licensed under [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)
 
-This repository is also licensed under **CC BY-SA 3.0** in compliance with the ShareAlike requirement.
 
 ---
 
